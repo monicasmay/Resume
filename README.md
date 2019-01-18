@@ -35,7 +35,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   <p>Information about PowerShell</p>
 </details>
 
-<details><summary>AWS</summary>
+<details><summary>Amazon Web Services (AWS)</summary>
 <br>
   <p>Information about AWS</p>
 </details>
