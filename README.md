@@ -32,12 +32,33 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 </details>
 
 <details><summary>PowerBI</summary>
+<br>
 <p>Information about PowerBI
 </details>
-<details><summary>PowerShell</summary></details>
-<details><summary>AWS</summary></details>
-<details><summary>Linux</summary></details>
+
+<details><summary>PowerShell</summary>
+<br>
+<p>Information about PowerShell
+</details>
+
+<details><summary>AWS</summary>
+<br>
+<p>Information about AWS
+</details>
+
+<details><summary>Linux</summary>
+<br>
+<p>Information about Linux
+</details>
 
 <h2>Certification</h2>
+<details><summary>COMPTIA Security +</summary>
+<br>
+<p>Information about certification
+</details>
 
+<details><summary>Cybersecurity Fundamentals</summary>
+<br>
+<p>Information about certification
+</details>
  
