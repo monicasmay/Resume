@@ -1,5 +1,5 @@
 <h1>Education</h1>
-<h3>The University of Tulsa</h3>
+<h3>The University of Tulsa (May 2019)</h3>
 <p>Major: Computer Information Systems</p>
 <p>Minor: Marketing</p>
 
