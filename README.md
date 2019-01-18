@@ -7,7 +7,7 @@ Listed below are the technical skills and certifications I acquired as a Compute
   
 <h4>Description: </h4>
 I completed the following modules in the GitHub Learning Lab:
-<li>Introduction to GitHub</li>
+<p>Introduction to GitHub</p>
 <li>Communicating using Markdown</li>
 <li>Introduction to HTML</li>
 <li>GitHub Pages</li>
