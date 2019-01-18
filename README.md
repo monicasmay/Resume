@@ -31,7 +31,9 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 </ul>
 </details>
 
-<details><summary>PowerBI</summary></details>
+<details><summary>PowerBI</summary>
+<p>Information about PowerBI
+</details>
 <details><summary>PowerShell</summary></details>
 <details><summary>AWS</summary></details>
 <details><summary>Linux</summary></details>
