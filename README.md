@@ -24,38 +24,38 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Create a release based workflow</li>
 </ul>
 </details>
-<br>
+
 
 <details><summary>PowerBI</summary>
 <br>
   <p>Information about PowerBI</p>
 </details>
-<br>
+
 
 <details><summary>PowerShell</summary>
 <br>
   <p>Information about PowerShell</p>
 </details>
-<br>
+
 
 <details><summary>Amazon Web Services (AWS)</summary>
 <br>
   <p>Information about AWS</p>
 </details>
-<br>
+
 
 <details><summary>Linux</summary>
 <br>
   <p>Information about Linux</p>
 </details>
-<br>
+
 
 <h2>Certification</h2>
 <details><summary>COMPTIA Security +</summary>
 <br>
   <p>Information about certification</p>
 </details>
-<br>
+
 
 <details><summary>Cybersecurity Fundamentals</summary>
 <br>
