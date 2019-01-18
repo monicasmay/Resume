@@ -1,5 +1,5 @@
 <h1>Education</h1>
-**The University of Tulsa**
+<h5>The University of Tulsa</h5>
 <p>Major: Computer Information Systems</p>
 <p>Minor: Marketing</p>
 
