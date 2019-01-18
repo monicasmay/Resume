@@ -1,9 +1,6 @@
-<h1>Skills and Certifications</h1>
+<h1>Technical Skills and Certifications</h1>
 
-<h2>Education</h2>
-**The University of Tulsa**
-_Major: Computer Information Systems
-Minor: Marketing_
+Listed below are the skills and certifications I acquired as a Computer Information Systems major at The University of Tulsa.
 
 <h2>Technical Skills</h2>
 
