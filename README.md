@@ -1,7 +1,7 @@
 <h1>Education</h1>
-<li>The University of Tulsa</li>
-<li>Major: Computer Information Systems</li>
-<li>Minor: Marketing</li>
+The University of Tulsa
+Major: Computer Information Systems
+Minor: Marketing
 
 
 <h1>Technical Skills and Certifications</h1>
