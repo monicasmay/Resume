@@ -16,7 +16,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   
 <h4>Courses:</h4>
 <ul>
-<p><li>Introduction to GitHub</li>
+<li>Introduction to GitHub</li>
 <li>Communicating using Markdown</li>
 <li>Introduction to HTML</li>
 <li>GitHub Pages</li>
@@ -27,7 +27,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Migrating your repository to GitHub</li>
 <li>Reviewing pull requests</li>
 <li>Securing your workflows</li>
-<li>Create a release based workflow</li></p>
+<li>Create a release based workflow</li>
 </ul>
 </details>
 
