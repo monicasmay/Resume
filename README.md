@@ -4,7 +4,7 @@ Listed below are the technical skills and certifications I acquired as a Compute
 
 <h2>Technical Skills</h2>
 <details><summary>GitHub Learning Lab</summary>
-
+<br>
 I completed the following courses in the GitHub Learning Lab.
 <br>
 <h4>Courses:</h4>
