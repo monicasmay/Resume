@@ -11,7 +11,7 @@ Listed below are the technical skills and certifications I acquired as a Compute
 <h2>Technical Skills</h2>
 <details><summary>GitHub Learning Lab</summary>
 <br>
-I completed the following courses in the <a href="https://lab.github.com/courses">GitHib Learning Lab</a>. 
+I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>. 
 <br>
 <h4>Courses:</h4>
 <p><li>Introduction to GitHub</li>
