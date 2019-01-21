@@ -47,8 +47,9 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <details><summary>Linux</summary>
 <br>
   <p>Information about Linux</p>
+  <br>
 </details>
-<br>
+
 
 <h2>Certification</h2>
 <details><summary>COMPTIA Security +</summary>
