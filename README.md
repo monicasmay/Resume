@@ -51,7 +51,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 </details>
 <br>
 
-<h2>Certification</h2>
+<h2>Certifications</h2>
 <details><summary>COMPTIA Security +</summary>
 <br>
   <p>Information about certification</p>
