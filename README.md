@@ -46,8 +46,24 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>Linux</summary>
 <br>
-  <p>Information about Linux</p>
-  <br>
+  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. Throughout the course, I learned about the following topics: 
+<br>
+  
+<h4>Topics:</h4>
+<ul>
+<li>The Linux Community and a Career in Open Source</li>
+<li>Communicating using Markdown</li>
+<li>Introduction to HTML</li>
+<li>GitHub Pages</li>
+<li>Managing merge conflicts</li>
+<li>Community Starter Kit</li>
+<li>Uploading your project to GitHub</li>
+<li>Getting started with GitHub Apps</li>
+<li>Migrating your repository to GitHub</li>
+<li>Reviewing pull requests</li>
+<li>Securing your workflows</li>
+<li>Create a release based workflow</li>
+</ul>
 </details>
 <br>
 
