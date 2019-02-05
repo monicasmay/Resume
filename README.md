@@ -53,8 +53,9 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   
 <h4>Topics:</h4>
 <ul>
-<li>The Linux Community and a Career in Open Source</li>
-  <p>Linux Evolution and Popular Operating Systems</p>
+<details><summary>The Linux Community and a Career in Open Source</summary>
+  <li>Linux Evolution and Popular Operating Systems</li>
+</details>
 <li>Communicating using Markdown</li>
 <li>Introduction to HTML</li>
 <li>GitHub Pages</li>
