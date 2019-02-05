@@ -98,9 +98,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   <li>Special Directories and Files</li>
   <br>
 </details>
-
-
-</details>
+<br>
 <br>
 
 <h2>Certifications</h2>
