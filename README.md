@@ -46,7 +46,8 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>Linux</summary>
 <br>
-  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. Throughout the course, I learned about the following topics: 
+  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. 
+  Throughout the course, I learned about the following topics: 
 <br>
   
 <h4>Topics:</h4>
