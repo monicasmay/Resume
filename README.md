@@ -55,47 +55,47 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <ul>
 <details><summary>The Linux Community and a Career in Open Source</summary>
   <br>
-  <p>Linux Evolution and Popular Operating Systems</p>
-  <p>How to Access a Linux Installation</p>
-  <p>Major Open Source Applications</p>
-  <p>Understanding Open Source Software and Licensing</p>
-  <p>ICT Skills and Working in Linux</p>
+  <li>Linux Evolution and Popular Operating Systems</li>
+  <li>How to Access a Linux Installation</li>
+  <li>Major Open Source Applications</li>
+  <li>Understanding Open Source Software and Licensing</li>
+  <li>ICT Skills and Working in Linux</li>
   <br>
 </details>
 
 <details><summary>Finding Your Way on a Linux System</summary>
   <br>
-  <p>Command Line Basics</p>
-  <p>Using the Command Line to Get Help</p>
-  <p>Using Directories and Listing Files</p>
-  <p>Creating, Moving and Deleting Files</p>
+  <li>Command Line Basics</li>
+  <li>Using the Command Line to Get Help</li>
+  <li>Using Directories and Listing Files</li>
+  <li>Creating, Moving and Deleting Files</li>
   <br>
 </details>
 
 <details><summary>The Power of the Command Line</summary>
   <br>
-  <p>Archiving Files on the Command Line</p>
-  <p>Searching and Extracting Data from Files</p>
-  <p>Turning Commands into a Script</p>
-  <p>Creating, Moving and Deleting Files</p>
+  <li>Archiving Files on the Command Line</li>
+  <li>Searching and Extracting Data from Files</li>
+  <li>Turning Commands into a Script</li>
+  <li>Creating, Moving and Deleting Files</li>
   <br>
 </details>
 
 <details><summary>The Linux Operating System</summary>
   <br>
-  <p>Choosing an Operating System</p>
-  <p>Understanding Computer Hardware</p>
-  <p>Where Data is Stored</p>
-  <p>Your Computer on the Network</p>
+  <li>Choosing an Operating System</li>
+  <li>Understanding Computer Hardware</li>
+  <li>Where Data is Stored</li>
+  <li>Your Computer on the Network</li>
   <br>
 </details>
 
 <details><summary>Security and File Permissions</summary>
   <br>
-  <p>Basic Security and Identifying User Types</p>
-  <p>Creating Users and Groups</p>
-  <p>Managing File Permissions and Ownership</p>
-  <p>Special Directories and Files</p>
+  <li>Basic Security and Identifying User Types</li>
+  <li>Creating Users and Groups</li>
+  <li>Managing File Permissions and Ownership</li>
+  <li>Special Directories and Files</li>
   <br>
 </details>
 
