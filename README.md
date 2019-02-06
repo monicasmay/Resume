@@ -50,7 +50,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <br>
   Throughout the course, I learned about the following topics: 
 <br>
-  
+<br>  
 <h4>Topics:</h4>
 <ul>
 <details><summary>The Linux Community and a Career in Open Source</summary>
