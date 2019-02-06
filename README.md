@@ -100,7 +100,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   
 <h4>Certificate:</h4>
 LPI Linux Essentials Course Completion Certificate:
-<img src="AWSCourseCompletion.jpg" alt="LPI Linux Essentials Course Completion">  
+<img src="MonicaMayCertificate.png" alt="LPI Linux Essentials Course Completion">  
   
 </details>
 <br>
