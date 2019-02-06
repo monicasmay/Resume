@@ -68,7 +68,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Create a release based workflow</li>
 </ul>
 </details>
-
+<br>
 
 <h2>Certifications</h2>
 <details><summary>COMPTIA Security +</summary>
