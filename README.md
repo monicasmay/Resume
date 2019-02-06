@@ -67,6 +67,10 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Securing your workflows</li>
 <li>Create a release based workflow</li>
 </ul>
+
+<h4> Certificate: </h4>
+LPI Linux Essentials Course Completion Certificate:
+<img src="MonicaMayCertificate.png" alt="LPI Linux Essentials Course Completion">
 </details>
 
 <br>
