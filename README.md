@@ -71,10 +71,10 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <h4> Certificate: </h4>
 LPI Linux Essentials Course Completion Certificate:
 <img src="MonicaMayCertificate.png" alt="LPI Linux Essentials Course Completion">
+<br>
 </details>
 
-<br>
-<br>
+
 <h2>Certifications</h2>
 <details><summary>COMPTIA Security +</summary>
 <br>
