@@ -97,11 +97,11 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   <li>Managing File Permissions and Ownership</li>
   <li>Special Directories and Files</li>
   <br> 
-  
+</details>  
 </details>
 <br>
 <br>
-</details>
+
 
 <h2>Certifications</h2>
 <details><summary>COMPTIA Security +</summary>
