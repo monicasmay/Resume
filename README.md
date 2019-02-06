@@ -96,16 +96,12 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   <li>Creating Users and Groups</li>
   <li>Managing File Permissions and Ownership</li>
   <li>Special Directories and Files</li>
-  <br>
-  
-<h4>Certificate:</h4>
-LPI Linux Essentials Course Completion Certificate:
-<img src="MonicaMayCertificate.png" alt="LPI Linux Essentials Course Completion">  
+  <br> 
   
 </details>
 <br>
 <br>
-</details>
+
 
 <h2>Certifications</h2>
 <details><summary>COMPTIA Security +</summary>
