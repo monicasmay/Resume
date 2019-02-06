@@ -51,56 +51,23 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   Throughout the course, I learned about the following topics: 
 <br>
 <br>  
+
 <h4>Topics:</h4>
 <ul>
-<details><summary>The Linux Community and a Career in Open Source</summary>
-  <br>
-  <li>Linux Evolution and Popular Operating Systems</li>
-  <li>How to Access a Linux Installation</li>
-  <li>Major Open Source Applications</li>
-  <li>Understanding Open Source Software and Licensing</li>
-  <li>ICT Skills and Working in Linux</li>
-  <br>
+<li>The Linux Community and a Career in Open Source</li>
+<li>Finding Your Way on a Linux System</li>
+<li>The Power of the Command Line</li>
+<li>The Linux Operating System</li>
+<li>Security and File Permissions</li>
+<li>Community Starter Kit</li>
+<li>Uploading your project to GitHub</li>
+<li>Getting started with GitHub Apps</li>
+<li>Migrating your repository to GitHub</li>
+<li>Reviewing pull requests</li>
+<li>Securing your workflows</li>
+<li>Create a release based workflow</li>
+</ul>
 </details>
-
-<details><summary>Finding Your Way on a Linux System</summary>
-  <br>
-  <li>Command Line Basics</li>
-  <li>Using the Command Line to Get Help</li>
-  <li>Using Directories and Listing Files</li>
-  <li>Creating, Moving and Deleting Files</li>
-  <br>
-</details>
-
-<details><summary>The Power of the Command Line</summary>
-  <br>
-  <li>Archiving Files on the Command Line</li>
-  <li>Searching and Extracting Data from Files</li>
-  <li>Turning Commands into a Script</li>
-  <li>Creating, Moving and Deleting Files</li>
-  <br>
-</details>
-
-<details><summary>The Linux Operating System</summary>
-  <br>
-  <li>Choosing an Operating System</li>
-  <li>Understanding Computer Hardware</li>
-  <li>Where Data is Stored</li>
-  <li>Your Computer on the Network</li>
-  <br>
-</details>
-
-<details><summary>Security and File Permissions</summary>
-  <br>
-  <li>Basic Security and Identifying User Types</li>
-  <li>Creating Users and Groups</li>
-  <li>Managing File Permissions and Ownership</li>
-  <li>Special Directories and Files</li>
-  <br> 
-</details>  
-</details>
-<br>
-<br>
 
 
 <h2>Certifications</h2>
