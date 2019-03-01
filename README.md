@@ -28,7 +28,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>PowerBI</summary>
 <br>
- I auditted the Analyzing and <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Visualizing Data with Power BI</a> course on edX and completed the following courses:
+ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX and completed the following courses.
 <br>
   
 <h4>Courses:</h4> 
