@@ -43,7 +43,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Mobile App</li>
 </ul>
 <br>
-<img src="MonicaMayCertificate.png" alt="Power BI photo">
+<img src="MonicaMayPowerBI.png" alt="Power BI photo">
 <br>
 </details>
 
