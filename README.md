@@ -92,7 +92,6 @@ LPI Linux Essentials Course Completion Certificate:
 
 
 <br>
-<br>
 <h2>Certifications</h2>
 <details><summary>COMPTIA Security +</summary>
 <br>
