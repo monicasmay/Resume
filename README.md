@@ -28,7 +28,23 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>PowerBI</summary>
 <br>
-  <p>Information about PowerBI</p>
+ I auditted the Analyzing and <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Visualizing Data with Power BI</a> course on edX and completed the following courses:
+<br>
+  
+<h4>Courses:</h4> 
+<ul>
+<li>Power BI Desktop Data Transformations</li>
+<li>Power BI Desktop Modelling</li>
+<li>Power BI Desktop Visualization</li>
+<li>Power BI Service</li>
+<li>Working with Excel</li>
+<li>Direct Connectivity</li>
+<li>Developer API</li>
+<li>Mobile App</li>
+</ul>
+<br>
+<img src="MonicaMayCertificate.png" alt="Power BI photo">
+<br>
 </details>
 
 
@@ -75,6 +91,8 @@ LPI Linux Essentials Course Completion Certificate:
 </details>
 
 
+<br>
+<br>
 <h2>Certifications</h2>
 <details><summary>COMPTIA Security +</summary>
 <br>
