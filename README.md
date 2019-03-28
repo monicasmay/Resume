@@ -48,15 +48,42 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 </details>
 
 
-<details><summary>PowerShell</summary>
+<details><summary>VPN</summary>
 <br>
-  <p>Information about PowerShell</p>
+  <p>Information about Algo and OpenVPN</p>
 </details>
 
 
 <details><summary>Amazon Web Services (AWS)</summary>
 <br>
-  <p>Information about AWS</p>
+  I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com/">Linux Academy</a>.
+<br>
+  Throughout the course, I covered the following topics:
+<br>
+<br>
+
+<h4>Topics:</h4>
+<ul>
+  <li>AWS Essentials</li>
+  <li>Managing AWS Access with Users, Groups, and Roles</li>
+  <li>Identity and Access Management (IAM)</li>
+  <li>Networking Services and Connectivity</li>
+  <li>Virtual Private Cloud (VPC)</li>
+  <li>Compute Services</li>
+  <li>Elastic Cloud Compute (EC2)</li>
+  <li>Storage Services</li>
+  <li>Database Services</li>
+  <li>Monitoring, Alerts, and Notifications</li>
+  <li>Simple Notification Service (SNS)</li>
+  <li>Load Balancing, Elasticity, and Scalability</li>
+  <li>Elastic Load Balancer (ELB)</li>
+  <li>Auto Scaling</li>
+  <li>Route 53</li>
+  <li>Serverless Computing - Lambda</li>
+</ul>
+<br>
+<img src="AWSCertificate.png" alt="AWS photo">
+<br>
 </details>
 
 
