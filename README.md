@@ -50,7 +50,10 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>VPN</summary>
 <br>
-  <p>Information about Algo and OpenVPN</p>
+I configured my own VPN using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits.
+<br>
+<img src="algo proof 1.png" alt="Algo VPN photo"> 
+<br>
 </details>
 
 
