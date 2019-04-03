@@ -23,6 +23,9 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Securing your workflows</li>
 <li>Create a release based workflow</li>
 </ul>
+<br>
+<img src="githubphoto.png" alt="Github photo">
+<br>
 </details>
 
 
