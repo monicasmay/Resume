@@ -67,8 +67,6 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <br>
   I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses provided me with an introduction to Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53. 
 <br>
-  Throughout the course, I covered the following topics:
-<br>
 <br>
 
 <h4>Topics:</h4>
@@ -100,8 +98,6 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <details><summary>Linux</summary>
 <br>
   I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses gave me an introduction to the Linux operating system and the Linux kernel, as well as the Linux command line syntax. 
-<br>
-  Throughout the course, I learned about the following topics: 
 <br>
 <br>  
 
