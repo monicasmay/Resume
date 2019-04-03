@@ -5,7 +5,7 @@ Listed below are the technical skills and certifications I acquired as a Compute
 <h2>Technical Skills</h2>
 <details><summary>GitHub Learning Lab</summary>
 <br>
-I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>. 
+I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>. These courses taught me how to stand up static pages, create and manage pull requests, facilitate collaboration, and more. 
 <br>
   
 <h4>Courses:</h4>
@@ -31,7 +31,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>PowerBI</summary>
 <br>
- I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX and completed the following courses.
+ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX and completed the following courses. These courses taught me how to input data, add and modify elements on a dashboard, and transform and interpret different kinds of data. 
 <br>
   
 <h4>Courses:</h4> 
@@ -53,7 +53,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>VPN</summary>
 <br>
-I configured my own VPN using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits.
+I configured my own IPSEC VPN in the cloud using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits. This tutorial walked me through the process of deploying the Algo server, configuring the VPN clients, setting up an SSH tunnel, and adding and removing users. 
 <br>
 <br>
 <img src="algo proof 1.png" alt="Algo VPN photo"> 
@@ -64,7 +64,7 @@ I configured my own VPN using the <a href="https://github.com/trailofbits/algo">
 
 <details><summary>Amazon Web Services (AWS)</summary>
 <br>
-  I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com/">Linux Academy</a>.
+  I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses provided me with an introduction to Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53. 
 <br>
   Throughout the course, I covered the following topics:
 <br>
@@ -98,7 +98,7 @@ I configured my own VPN using the <a href="https://github.com/trailofbits/algo">
 
 <details><summary>Linux</summary>
 <br>
-  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. 
+  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses gave me an introduction to the Linux operating system and the Linux kernel, as well as the Linux command line syntax. 
 <br>
   Throughout the course, I learned about the following topics: 
 <br>
@@ -107,17 +107,22 @@ I configured my own VPN using the <a href="https://github.com/trailofbits/algo">
 <h4>Topics:</h4>
 <ul>
 <li>The Linux Community and a Career in Open Source</li>
-<li>Finding Your Way on a Linux System</li>
-<li>The Power of the Command Line</li>
+<li>Linux Evolution and Popular Operating Systems</li>
+<li>How to Access a Linux Installation</li>
+<li>Major Open Source Applications</li>  
+<li>Understanding Open Source Software and Licensing</li> 
+<li>ICT Skills and Working in Linux</li>
+<li>Command Line Basics</li> 
+<li>Using Directories and Listing Files</li> 
+<li>Archiving Files on the Command Line</li> 
+<li>Searching and Extracting Data from Files</li> 
+<li>Turning Commands into a Script</li>
 <li>The Linux Operating System</li>
 <li>Security and File Permissions</li>
-<li>Community Starter Kit</li>
-<li>Uploading your project to GitHub</li>
-<li>Getting started with GitHub Apps</li>
-<li>Migrating your repository to GitHub</li>
-<li>Reviewing pull requests</li>
-<li>Securing your workflows</li>
-<li>Create a release based workflow</li>
+<li>Basic Security and Identifying User Groups</li>
+<li>Creating Users and Groups</li> 
+<li>Managing File Permissions and Ownership</li> 
+<li>Special Directories and Files</li> 
 </ul>
 
 <h4> Certificate: </h4>
