@@ -26,6 +26,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <br>
 <img src="githubphoto.png" alt="Github photo">
 <br>
+<br>
 </details>
 
 
