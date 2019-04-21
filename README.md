@@ -54,7 +54,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>VPN</summary>
 <br>
-I configured my own IPSEC VPN in the cloud using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits. This tutorial walked me through the process of deploying the Algo server, configuring the VPN clients, setting up an SSH tunnel, and adding and removing users. 
+I configured my own IPSEC VPN in the cloud using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added and removed users. 
 <br>
 <br>
 <img src="algo proof 1.png" alt="Algo VPN photo"> 
@@ -127,19 +127,3 @@ LPI Linux Essentials Course Completion Certificate:
 <img src="MonicaMayCertificate.png" alt="LPI Linux Essentials Course Completion">
 <br>
 </details>
-
-
-<br>
-<h2>Certifications</h2>
-<details><summary>COMPTIA Security +</summary>
-<br>
-  <p>Information about certification</p>
-</details>
-
-
-<details><summary>Cybersecurity Fundamentals</summary>
-<br>
-  <p>Information about certification</p>
-</details>
-
- 
