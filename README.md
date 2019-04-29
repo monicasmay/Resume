@@ -30,7 +30,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 </details>
 
 
-<details><summary>PowerBI</summary>
+<details><summary>Power BI</summary>
 <br>
  I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX and completed the following courses. These courses taught me how to input data, add and modify elements on a dashboard, and transform and interpret different kinds of data. 
 <br>
@@ -51,6 +51,13 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <br>
 </details>
 
+
+<details><summary>Power BI Dashboard</summary>
+<br>
+Using the knowledge I gained from completing the Power BI edX course, I created a dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-datasets#the-power-bi-samples-as-excel-files">Procurement Analysis sample data</a> provided by Microsoft. Click the following link to watch a demonstration of my Power BI dashboard: https://youtu.be/q93dXd0959U
+<br>
+<img src="MonicaMayPowerBI.png" alt="Power BI dashboard photo">
+<br>
 
 <details><summary>VPN</summary>
 <br>
