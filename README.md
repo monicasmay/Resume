@@ -56,7 +56,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <br>
 Using the knowledge I gained from completing the Power BI edX course, I created a dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-datasets#the-power-bi-samples-as-excel-files">Procurement Analysis sample data</a> provided by Microsoft.
 <br>
-Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://youtu.be/q93dXd0959U"></a>
+Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://youtu.be/q93dXd0959U">Monica May Procurement Analysis Dashboard</a>
 <br>
 <br>
 <img src="Monica May Power BI dashboard.png" alt="Power BI dashboard photo">
